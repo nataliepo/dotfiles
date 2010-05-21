@@ -83,3 +83,5 @@ All dotfiles are arranged under the directory "home" as they would be in a user'
     |   |   `-- vcscommit.vim
     |   `-- text.vim
     `-- .vimrc
+
+Add a note to the readme. I'm changing tabstops!
