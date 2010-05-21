@@ -17,11 +17,9 @@ set backspace=indent,eol,start
 set autoindent
 set ruler
 set showcmd
-set tabstop=4
-set softtabstop=4
-set shiftwidth=4
-set smarttab
-set expandtab
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
 " always display status line at bottom of vim
 set laststatus=2
 " fancy statusline with file encoding and BOM
